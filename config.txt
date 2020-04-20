@@ -1,0 +1,19 @@
+#Transfer Function Settings
+#
+#RGB Peak Values
+p0 = 2.0
+p1 = 3.0
+p2 = 4.0
+
+#RGB Range on either side of peak
+r0 = 0.5
+r1 = 0.5
+r2 = 0.5
+
+#RGB slope
+s0 = 3.0
+s1 = 4.0
+s2 = 3.0
+
+#Volume Dataset Path
+vol = C:\\Users\\Mukund\\Documents\\UW\\GPU\\GPUSciVis_Win20\\Final_Project\\Frog.pvm
